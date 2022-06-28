@@ -1,1 +1,1 @@
-# study-frountend
+# study-frontend
